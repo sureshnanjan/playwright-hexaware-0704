@@ -1,0 +1,4 @@
+server: 'herokiappurl',
+tool: "playwright",
+browser: "chrome"
+
